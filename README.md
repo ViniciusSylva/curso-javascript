@@ -1,3 +1,3 @@
-# Curso de Javascript - Curso em Vídeo 
+# Curso de Javascript
  
  Curso de JavaScript do Curso em Vídeo - Gustava Guanabara
